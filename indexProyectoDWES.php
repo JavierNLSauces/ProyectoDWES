@@ -47,6 +47,7 @@
             <li><a href="doc/EstudioTema2.pdf" target="_blank">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>
             <li><a href="../proyectoTema3/indexProyectoTema3.php">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
             <li><a href="../proyectoTema4/indexProyectoTema4.php">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</a></li>
+            <li><a href="../proyectoMtoDepartamentosTema4/codigoPHP/mtoDepartamentos.php">MTO DE DEPARTAMENTOS TEMA 4</a></li>
         </ul>
     </main>
 
