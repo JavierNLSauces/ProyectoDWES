@@ -18,7 +18,6 @@
 <body>
     <header>
         <h1>DESARROLLO WEB EN ENTORNO SERVIDOR </h1>
-        <a class="github" href="https://github.com/JavierNLSauces/" target="_blank"><img  src="webroot/media/github.png" alt="github icon"></a>
     </header>
 
     <nav>
@@ -36,7 +35,7 @@
                 <a href="#">DWEC</a>
             </li>
             <li class="active">
-                <a href="indexProyectoDWES.php">DWES</a>  
+                <a href="indexProyectoDWES.php">DWES</a> 
             </li>
         </ul>
     </nav>
@@ -47,13 +46,17 @@
             <li><a href="doc/EstudioTema2.pdf" target="_blank">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>
             <li><a href="../proyectoTema3/indexProyectoTema3.php">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
             <li><a href="../proyectoTema4/indexProyectoTema4.php">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</a></li>
-            <li><a href="../proyectoMtoDepartamentosTema4/codigoPHP/mtoDepartamentos.php">MTO DE DEPARTAMENTOS TEMA 4</a></li>
+            <li><a href="../proyectoMtoDepartamentosTema4/codigoPHP/mtoDepartamentos.php">MTO DEPARTAMENTOS TEMA 4</a></li>
+            <li><a href="../proyectoTema5/indexProyectoTema5.php">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</a></li>
+            <li><a href="../LoginLogoffTema5/codigoPHP/login.php">LOGIN LOGOFF TEMA 5</a></li>
+            <li><a href="../MtoDepartamentosTema5/codigoPHP/login.php">MTO DEPARTAMENTOS TEMA 5</a></li>
         </ul>
     </main>
 
     <footer>
-        
-        <address> &copy; 2020-2021 Javier Nieto Lorenzo </address>
+        <a href="http://daw217.ieslossauces.es/" target="_blank"> <img src="../webroot/media/oneandone.png" alt="oneandone icon" width="40"></a>
+        <address>  <a href="../../index.html">&copy; 2020-2021 Javier Nieto Lorenzo</a> </address>
+        <a href="https://github.com/JavierNLSauces/" target="_blank"><img class="github" width="40" src="../webroot/media/github.png" ></a>
     </footer>
 </body>
 </html>
